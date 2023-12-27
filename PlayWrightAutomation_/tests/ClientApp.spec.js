@@ -68,6 +68,7 @@
  const orderIdDetails =await page.locator(".col-text").textContent();
  expect(orderId.includes(orderIdDetails)).toBeTruthy();
    await page.locator("").press('Enter');
+   await page.locator("").
  });
  
 
