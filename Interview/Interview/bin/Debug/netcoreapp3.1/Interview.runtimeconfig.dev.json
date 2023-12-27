@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MEKORE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MEKORE\\.nuget\\packages"
+    ]
+  }
+}
